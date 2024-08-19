@@ -1,6 +1,6 @@
 # Weather Forecast App
 
-![Weather App](path_to_your_image.png)
+![Weather App](./assets/github.png)
 
 ## Descrição
 
@@ -32,5 +32,5 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request
 
 ## Contato
 Nome: Pedro Henrique Majewski
-Email: seuemail@exemplo.com
-LinkedIn: Seu LinkedIn
+Email: pedrohmssilva@gmail.com
+LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/pedro-henrique-majewski-de-souza-e-silva/)
