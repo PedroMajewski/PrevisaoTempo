@@ -33,4 +33,4 @@ Contribuições são bem-vindas! Sinta-se à vontade para enviar um pull request
 ## Contato
 Nome: Pedro Henrique Majewski
 Email: pedrohmssilva@gmail.com
-LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/pedro-henrique-majewski-de-souza-e-silva/)
+LinkedIn: [Pedro Henrique Majewski](https://www.linkedin.com/in/pedro-henrique-majewski-de-souza-e-silva/)
